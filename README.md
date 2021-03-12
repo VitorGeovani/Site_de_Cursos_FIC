@@ -8,3 +8,5 @@
  :pushpin: **HomePage - Exibindo a foto de três cursos do FIC ministrados (título, duração, preço e uma imagem);**
  
  :pushpin: **Footer - Exibindo meu nome e meu endereço de e-mail;**
+ 
+ :newspaper: **Se você deseja saber mais sobre os cursos FIC do Senai Suiço-Brasileira, acesse este link --> [Link do site](https://suicobrasileira.sp.senai.br/cursos/13/624/formacao-inicial-e-continuada?Parent=623)**
