@@ -14,10 +14,10 @@
  
  :newspaper: **Se você deseja saber mais sobre os cursos FIC do Senai Suiço-Brasileira, acesse este link --> [Link do site](https://suicobrasileira.sp.senai.br/cursos/13/624/formacao-inicial-e-continuada?Parent=623)**
 
-:information_source: **Para executar todas essas aplicações foram necessárias algumas ferramentas, são elas o Visual Studio Code, o Dotnet SDK 5.0, o NodeJS e algumas extensões dentro do Visual Studio Code. Todos os links para Download direto foram disponibilizados, acesse-os e faça o download de tudo você mesmo!**
+:information_source: **Para executar todas essas aplicações foram necessárias algumas ferramentas, são elas o Visual Studio Code, o Dotnet SDK 5.0, o NodeJS, algumas extensões e comandos dentro do Visual Studio Code. Todos os links para Download direto foram disponibilizados, acesse-os e faça o download de tudo você mesmo!**
 
 :link: **Visual Studio Code - (https://code.visualstudio.com/Download)**
 
 :link: **Dotnet SDK 5.0 - (https://dotnet.microsoft.com/download/dotnet/5.0)**
 
-<img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="max-width:100%;"></img> **NodeJS - (https://nodejs.org/pt-br/download/)**
+<img align="center" alt="icon-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="max-width:100%;"></img> **NodeJS - (https://nodejs.org/pt-br/download/)**
