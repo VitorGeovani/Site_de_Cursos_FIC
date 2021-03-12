@@ -20,4 +20,4 @@
 
 :link: **Dotnet SDK 5.0 - (https://dotnet.microsoft.com/download/dotnet/5.0)**
 
-<img align="center" alt="icon-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="max-width:100%;"></img> **NodeJS - (https://nodejs.org/pt-br/download
+<img align="center" alt="icon-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="max-width:100%;"></img> **NodeJS - (https://nodejs.org/pt-br/download)**
