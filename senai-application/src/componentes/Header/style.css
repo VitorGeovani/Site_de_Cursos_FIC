@@ -1,0 +1,16 @@
+.header{
+    background-color: #2448c0;
+    color: #fff;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 18px;
+}
+.logo{
+   margin-right: 50px;
+   align-items: center;
+   justify-content: center;
+   display: flex;
+}

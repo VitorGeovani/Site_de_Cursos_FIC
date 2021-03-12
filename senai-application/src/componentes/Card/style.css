@@ -1,0 +1,17 @@
+.Card1-container{
+    border: 1px solid #d5d5d5;
+    border-radius: 4px;
+    width: 300px;
+    height: 400px;
+    background-color: whitesmoke;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 4px 2px 2px 2px black;
+}
+.curso1{
+   width: 300px;
+   border: 2px;
+   border-style: solid;
+   border-color: black;
+}
