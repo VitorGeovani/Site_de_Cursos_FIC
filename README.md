@@ -24,4 +24,18 @@
 
 # Extensões do VS Code
 
-<img align="center" alt="icon-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" style="max-width:100%;"></img>  **NPM - (https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)**
+<img align="center" alt="icon-npm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" style="max-width:100%;"></img>  **NPM - (https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)**
+
+<img align="center" alt="icon-npmIntell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" style="max-width:100%;"></img>  **NPM Intellisense - (https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)**
+
+# Comandos para usar no Terminal do VS Code
+
+:pushpin: **npx create-react-app your-app (Em your-app, coloque o nome que você deseja na sua aplicação)**
+
+:pushpin: **cd your-app (Depois de ter criado seu projeto, dê um cd na pasta da aplicação React)**
+
+:pushpin: **npm start (Use este comando para rodar sua aplicação no browser)**
+
+<p align="center">
+  <img src="/V.png">
+  </p>
